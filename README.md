@@ -1,7 +1,7 @@
 # Parsing-text-files-
 Extracting data from semi-structured text files. 
 
-This assessment touches the very first step of analyzing textual data, i.e., extracting data from semi-structured text files. 
+This project touches the very first step of analyzing textual data, i.e., extracting data from semi-structured text files. 
 
 Each data-set contains information about the unit, e.g., unit
 code, unit title, synopsis, requirements, output, chief examiner, etc. ( see test.txt ). Task is to
